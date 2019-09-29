@@ -1,0 +1,2 @@
+class LinhaBancoDados:
+    def __init__(febre, tosseSeca, tosseCatarroAmarelo, tosseCatarroEsverdeado, faltaArEDificuldadeRespirar, dorPeito, dorTorax, malEstarGeneralizado, fraqueza, suorInteso, nauseaEVomito, pneumonia)
