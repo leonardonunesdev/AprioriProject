@@ -6,7 +6,7 @@ class LinhaBancoDados:
         self.tosseCatarroEsverdeado = tosseCatarroEsverdeado
         self.faltaArEDificuldadeRespirar = faltaArEDificuldadeRespirar
         self.dorPeito = dorPeito
-        self.dorTorax = dorTorax
+        self.dorTorax = dorTorax 
         self.malEstarGeneralizado = malEstarGeneralizado
         self.fraqueza = fraqueza
         self.suorInteso = suorInteso
