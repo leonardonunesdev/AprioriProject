@@ -1,5 +1,7 @@
 from efficient_apriori import apriori
 
+
+
 transactions = [('eggs', 'bacon', 'soup'),
                 ('eggs', 'bacon', 'apple'),
                 ('soup', 'bacon', 'banana')]
